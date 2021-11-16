@@ -1,5 +1,5 @@
 import { defineNuxtConfig } from "nuxt3";
-import metaConfig from "./src/plugins/vue-meta";
+import metaConfig from "./src/utils/vue-meta";
 
 export default defineNuxtConfig({
   srcDir: "src",
